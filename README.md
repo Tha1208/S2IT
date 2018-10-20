@@ -11,4 +11,4 @@ Avaliação Técnica
 - 6 - Certo
 - 7 - Errado
 
-A resolução das Questões 8 e 9 estão separadas por pacotes, assim como seus testes.
+A resolução das Questões 8 e 9 estão separadas por pacotes (src\main\br\com\s2it), assim como seus testes (src\test\br\com\s2it).
